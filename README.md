@@ -18,3 +18,7 @@ https://towardsdatascience.com/using-causal-ml-instead-of-a-b-testing-eeb1067d7f
 
 - famous 2018 paper
 https://arxiv.org/pdf/1706.03762.pdf ‘attention is all you need’ 
+
+-
+confluence
+https://lululemon.atlassian.net/wiki/spaces/~62151d5a7580350068344889/pages/3205112565/Luluspace+Word+Embeddings+and+Product+Descriptions+-+oh+my
