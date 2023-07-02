@@ -1,3 +1,11 @@
+# data
+REDACTED product data in file Data_June_16_2023_salsify.xlsx
+- Our company name is now KittyCat
+- Product IDs have been modded to 'look correct' but are gibberish
+- Size info has been squished
+
+
+
 # product_space2
 -
 https://python.langchain.com/docs/get_started/introduction.html
